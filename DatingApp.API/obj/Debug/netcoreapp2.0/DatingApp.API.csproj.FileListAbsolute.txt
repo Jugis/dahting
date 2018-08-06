@@ -1,0 +1,11 @@
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csprojAssemblyReference.cache
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csproj.CoreCompileInputs.cache
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfoInputs.cache
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.deps.json
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.json
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.dev.json
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.dll
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.pdb
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
+D:\Programozas\asp_net_core_2.0_MVC_cuccc\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
